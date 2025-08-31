@@ -34,7 +34,7 @@
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  object-fit: cover; /* 이미지가 찌그러지지 않고 틀에 꽉 차게 */
+  object-fit: cover;
 }
 
 .status {
